@@ -18,3 +18,4 @@
 - Overtime significantly increases attrition
 - Younger employees show higher attrition
 
+tableau dashboard link:- https://public.tableau.com/app/profile/khushi.wagdre/viz/EmployeeAttritionAnalysis_17659875665110/EmployeeAttritionAnalysisDashboard?publish=yes
